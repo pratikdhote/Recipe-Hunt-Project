@@ -4,7 +4,7 @@ A Recipe Website build with angular 6+ and firebase.
 
 ## Demo Link:
 
-Live Demo: https://shop-feea2.firebaseapp.com
+Live Demo: https://recipehunt.firebaseapp.com
 
 ## Tech used
 
