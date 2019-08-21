@@ -1,0 +1,18 @@
+a {
+    cursor: pointer;
+}
+
+.disabled {
+    pointer-events: none;
+    cursor: default;
+    opacity: 0.3;
+}
+
+.list-group-item {
+    background-color:rgb(252, 241, 210);
+    color:rgb(126, 94, 34);
+}
+
+h1, h4 {
+    color:rgb(126, 94, 34);
+}

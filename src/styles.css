@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url('./assets/images/backPic1.jpg');
+    background-attachment: fixed;
+    font-family:'Ubuntu', sans-serif;
+    /* background-position: unset; */
+}

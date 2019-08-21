@@ -1,0 +1,10 @@
+button {
+    background-color: #FFCB2B;
+    border: #FFCB2B;
+    color: rgb(131, 97, 33);
+    border-color: #FFCB2B;
+}
+
+button :active {
+ border-color: rgb(252, 237, 195);
+}

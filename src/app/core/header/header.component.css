@@ -1,0 +1,25 @@
+.navbar-brand {
+    font-size: 25px;
+    color: #FFCB2B;
+    padding: 11px 15px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #A58D62;
+    background-color: #FCF8E3;
+    border-radius: 50px;
+}
+
+a {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+li {
+    padding: 0 13px;
+}
+
+.navbar {
+    background-color:rgb(252, 237, 195)
+}
